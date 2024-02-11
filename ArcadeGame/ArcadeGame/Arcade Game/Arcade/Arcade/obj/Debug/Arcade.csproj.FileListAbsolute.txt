@@ -1,0 +1,14 @@
+C:\Users\bianc\Desktop\Atestat Caro\atestat caro\atestat caro\bin\Debug\atestat caro.exe.config
+C:\Users\bianc\Desktop\Atestat Caro\atestat caro\atestat caro\bin\Debug\atestat caro.exe
+C:\Users\bianc\Desktop\Atestat Caro\atestat caro\atestat caro\bin\Debug\atestat caro.pdb
+C:\Users\bianc\Desktop\Atestat Caro\atestat caro\atestat caro\obj\Debug\atestat caro.csproj.AssemblyReference.cache
+C:\Users\bianc\Desktop\Atestat Caro\atestat caro\atestat caro\obj\Debug\atestat caro.csproj.SuggestedBindingRedirects.cache
+C:\Users\bianc\Desktop\Atestat Caro\atestat caro\atestat caro\obj\Debug\atestat_caro.joctablaculori.resources
+C:\Users\bianc\Desktop\Atestat Caro\atestat caro\atestat caro\obj\Debug\atestat_caro.Properties.Resources.resources
+C:\Users\bianc\Desktop\Atestat Caro\atestat caro\atestat caro\obj\Debug\atestat_caro.XsiO.resources
+C:\Users\bianc\Desktop\Atestat Caro\atestat caro\atestat caro\obj\Debug\atestat caro.csproj.GenerateResource.cache
+C:\Users\bianc\Desktop\Atestat Caro\atestat caro\atestat caro\obj\Debug\atestat caro.csproj.CoreCompileInputs.cache
+C:\Users\bianc\Desktop\Atestat Caro\atestat caro\atestat caro\obj\Debug\atestat caro.exe
+C:\Users\bianc\Desktop\Atestat Caro\atestat caro\atestat caro\obj\Debug\atestat caro.pdb
+C:\Users\bianc\Desktop\Atestat Caro\atestat caro\atestat caro\obj\Debug\atestat_caro.Home.resources
+C:\Users\bianc\Desktop\Atestat Caro\atestat caro\atestat caro\obj\Debug\atestat_caro.flappybirdgame.resources
